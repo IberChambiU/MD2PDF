@@ -1,0 +1,17 @@
+.DS_Store/
+.vscode/
+*.exe
+smsw
+tmp/
+.env
+
+pdf/
+md/
+pdf/
+
+*.synctex.gz
+*.aux
+*.log
+*.out
+*.toc
+*.gz
